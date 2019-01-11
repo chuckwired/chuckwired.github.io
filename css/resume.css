@@ -60,6 +60,11 @@ h2 {
   color: #BD5D38;
 }
 
+.card-feature {
+  background-color: #f8f9fa;
+  font-size: 8rem;
+}
+
 #sideNav .navbar-brand {
   font-family: 'Ranga', serif;
   font-size: 1.5rem;
